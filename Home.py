@@ -48,7 +48,7 @@ with st.container():
             <div class="animate-fade-in">
                 <h2>📊 Visualize Risk. Target Solutions.</h2>
                 <p style="font-size: 1.1rem; line-height: 1.6;">
-                    In Nigeria, up to 50% of perishable crops are lost after harvest. YIPRO combines data analytics, risk mapping, 
+                    In Nigeria, up to 50% of perishable crops are lost after harvest. AI Storage Assistant combines data analytics, risk mapping, 
                     and smart technology to help youth-led agri-businesses minimize these losses and maximize profits.
 
 
