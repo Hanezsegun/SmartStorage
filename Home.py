@@ -83,8 +83,8 @@ with col2:
         with st.container():
             st.markdown("""
             <div style="padding: 20px; border-radius: 10px; background-color: #e8f5e9; height: 100%; margin-top: 15px;">
-                <h3 style="color: #2E7D32;">🚜 Loss-Prevention Tips</h3>
-                <p>Practical, easy-to-follow advice to help farmers reduce waste during storage, handling, and transport.</p>
+                <h3 style="color: #2E7D32;">🚜 Storage Assistance</h3>
+                <p>Quickly discover best storage facilities for different farm produce.</p>
             </div>
             """, unsafe_allow_html=True)
     
